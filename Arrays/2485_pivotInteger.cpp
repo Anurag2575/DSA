@@ -1,14 +1,13 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int pivotInteger(vector<int>& nums){
+int pivotInteger(int n){
     int totalSum = 0;
-    for(auto& i : nums) totalSum+=i;
+    for(int i = 1; i <= n; i++) totalSum += i;
     int sum = 0;
-    for(auto&i : nums){
-        sum+=i;
+    for(int i = 1; i <= n; i++){
+        sum += i;
         if(sum == totalSum - sum + i) return i;
-        //2 X sum - i = totalSum
     }
     return -1;
 }

@@ -1,0 +1,10 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int singleNumber(vector<int>& nums){
+    int xorr = nums[0];
+    for(int i = 1; i < nums.size(); i++){
+        xorr ^= nums[i];
+    }
+    return xorr;
+}

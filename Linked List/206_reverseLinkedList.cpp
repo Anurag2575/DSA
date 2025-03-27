@@ -18,25 +18,6 @@ struct Node{
     }
 };
 
-Node* arr2LL(vector<int> arr){
-    Node* head = new Node(arr[0]);
-    Node* mover = head;
-    for(int i = 1; i < arr.size(); i++){
-        Node* temp = new Node(arr[i]);
-        mover->next = temp;
-        mover = temp;
-    }
-    return head;
-}
-
-void print(Node* head){
-    while(head){
-        cout<<head->data<<" ";
-        head = head->next;
-    }
-    cout<<endl;
-}
-
 Node* reverseLLIteration(Node* head){
     if(!head || !head->next) return head;
     Node* temp = head;

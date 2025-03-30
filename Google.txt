@@ -40,7 +40,7 @@
 - 69 Sqrt(x)  
 - 28 Implement strStr()  
 - 914 X of a Kind in a Deck of Cards  
-- 238 Product of Array Except Self  
+- 238 Product of Array Except Self..............................................  
 - 167 Two Sum II - Input Array Is Sorted........................................  
 - 11 Container With Most Water..................................................  
 - 380 Insert Delete GetRandom O(1)  
@@ -113,7 +113,7 @@
 - 191 Number of 1 Bits  
 - 231 Power of Two  
 - 405 Convert a Number to Hexadecimal  
-- 136 Single Number  
+- 136 Single Number.............................................................  
 - 190 Reverse Bits  
 - 338 Counting Bits  
 

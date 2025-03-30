@@ -37,13 +37,13 @@ Array & String
 36. Plus One   
 37. Find All Duplicates in an Array   
 38. Sort Characters By Frequency   
-39. Rotate Image   
+39. Rotate Image................................................................   
 40. Daily Temperatures   
 41. Maximum Level Sum of a Binary Tree   
 42. Combination Sum   
 43. Palindromic Substrings   
 44. Score of Parentheses   
-45. Product of Array Except Self   
+45. Product of Array Except Self................................................   
 46. Kth Largest Element in an Array   
 47. Two Sum II - Input Array Is Sorted..........................................   
 48. K Radius Subarray Averages   

@@ -13,7 +13,7 @@ Array & String
 12. Toeplitz Matrix   
 13. Goat Latin   
 14. Fizz Buzz   
-15. Find the Middle Index in Array   
+15. Find the Middle Index in Array..............................................   
 16. Palindrome Permutation   
 17. Move Zeroes.................................................................   
 18. Find All Numbers Disappeared in an Array   
@@ -72,7 +72,7 @@ Array & String
 ---
 
 Linked List
-1. Middle of the Linked List   
+1. Middle of the Linked List....................................................   
 2. Reverse Linked List   
 3. Intersection of Two Linked Lists   
 4. Remove Duplicates from Sorted List   

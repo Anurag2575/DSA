@@ -2,7 +2,7 @@
 
 1. Arrays & Strings
 - 2235 Add Two Integers  
-- 1929 Concatenation of Array  
+- 1929 Concatenation of Array...................................................UP 
 - 1920 Build Array from Permutation  
 - 1108 Defanging an IP Address  
 - 1365 How Many Numbers Are Smaller Than the Current Number  
@@ -18,7 +18,7 @@
 - 118 Pascal's Triangle  
 - 169 Majority Element  
 - 242 Valid Anagram  
-- 217 Contains Duplicate  
+- 217 Contains Duplicate........................................................UP
 - 171 Excel Sheet Column Number  
 - 283 Move Zeroes...............................................................  
 - 389 Find the Difference  
@@ -48,10 +48,10 @@
 ---
 
 2. Linked Lists
-- 876 Middle of the Linked List.................................................  
+- 876 Middle of the Linked List.................................................UP
 - 206 Reverse Linked List  
 - 234 Palindrome Linked List  
-- 141 Linked List Cycle  
+- 141 Linked List Cycle.........................................................UP  
 - 725 Split Linked List in Parts  
 - 109 Convert Sorted List to Binary Search Tree  
 

@@ -26,7 +26,7 @@
 - 13 Roman to Integer  
 - 383 Ransom Note  
 - 1539 Kth Missing Positive Number  
-- 485 Max Consecutive Ones  
+- 485 Max Consecutive Ones......................................................  
 - 724 Find Pivot Index  
 - 27 Remove Element  
 - 392 Is Subsequence  

@@ -28,7 +28,7 @@ Array & String
 27. Verifying an Alien Dictionary   
 28. Add Strings   
 29. Find Pivot Index   
-30. Remove Element   
+30. Remove Element..............................................................   
 31. Add Binary   
 32. Maximum Subarray   
 33. Two Sum.....................................................................   
@@ -58,7 +58,7 @@ Array & String
 57. Minimum Size Subarray Sum   
 58. Basic Calculator II   
 59. Spiral Matrix   
-60. Rotate Array   
+60. Rotate Array................................................................   
 61. Remove Nth Node From End of List   
 62. Unique Paths II   
 63. String to Integer (atoi)   

@@ -36,8 +36,8 @@ Array & String
 35. Strobogrammatic Number   
 36. Plus One   
 37. Find All Duplicates in an Array   
-38. Sort Characters By Frequency   
-39. Rotate Image................................................................   
+38. Sort Characters By Frequency................................................
+39. Rotate Image................................................................
 40. Daily Temperatures   
 41. Maximum Level Sum of a Binary Tree   
 42. Combination Sum   

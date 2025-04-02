@@ -28,9 +28,9 @@
 - 1539 Kth Missing Positive Number  
 - 485 Max Consecutive Ones......................................................  
 - 724 Find Pivot Index  
-- 27 Remove Element  
+- 27 Remove Element.............................................................  
 - 392 Is Subsequence  
-- 53 Maximum Subarray  
+- 53 Maximum Subarray...........................................................
 - 26 Remove Duplicates from Sorted Array........................................  
 - 1 Two Sum.....................................................................
 - 844 Backspace String Compare  
@@ -49,9 +49,9 @@
 
 2. Linked Lists
 - 876 Middle of the Linked List.................................................
-- 206 Reverse Linked List  
+- 206 Reverse Linked List.......................................................
 - 234 Palindrome Linked List  
-- 141 Linked List Cycle.........................................................UP  
+- 141 Linked List Cycle......................................................... 
 - 725 Split Linked List in Parts  
 - 109 Convert Sorted List to Binary Search Tree  
 
@@ -111,7 +111,7 @@
 
 7. Bit Manipulation
 - 191 Number of 1 Bits  
-- 231 Power of Two  
+- 231 Power of Two
 - 405 Convert a Number to Hexadecimal  
 - 136 Single Number.............................................................  
 - 190 Reverse Bits  

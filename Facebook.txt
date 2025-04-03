@@ -13,18 +13,18 @@ Array & String
 12. Toeplitz Matrix
 13. Goat Latin
 14. Fizz Buzz
-15. Find the Middle Index in Array..............................................   
+15. Find the Middle Index in Array..............................................
 16. Palindrome Permutation
 17. Move Zeroes.................................................................
 18. Find All Numbers Disappeared in an Array....................................
 19. Rank Transform of an Array
-20. Monotonic Array
+20. Monotonic Array-------------------------------------------------------------
 21. Roman to Integer
 22. First Unique Character in a String..........................................
 23. Check Array Formation Through
 24. Kth Missing Positive Number
 25. Find Winner on a Tic Tac Toe Game
-26. Palindrome Number   
+26. Palindrome Number
 27. Verifying an Alien Dictionary   
 28. Add Strings   
 29. Find Pivot Index   
@@ -75,11 +75,11 @@ Linked List
 1. Middle of the Linked List....................................................   
 2. Reverse Linked List..........................................................   
 3. Intersection of Two Linked Lists---------------------------------------------
-4. Remove Duplicates from Sorted List   
+4. Remove Duplicates from Sorted List-------------------------------------------
 5. Merge Two Sorted Lists   
-6. Merge Sorted Array........................................................... 
+6. Merge Sorted Array...........................................................
 7. Reverse Bits   
-8. Reverse String   
+8. Reverse String---------------------------------------------------------------
 9. Swap Nodes in a Linked List   
 10. Copy List with Random Pointer   
 11. Reorder List   

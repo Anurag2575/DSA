@@ -133,7 +133,7 @@ Dynamic Programming
 ---
 
 Sorting & Searching
-1. Binary Search   
+1. Binary Search----------------------------------------------------------------
 2. Find Peak Element   
 3. Search a 2D Matrix   
 4. Search in Rotated Sorted Array   

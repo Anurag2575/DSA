@@ -15,7 +15,7 @@
 - 349 Intersection of Two Arrays------------------------------------------------
 - 1122 Relative Sort Array
 - 118 Pascal's Triangle
-- 169 Majority Element
+- 169 Majority Element----------------------------------------------------------
 - 242 Valid Anagram-------------------------------------------------------------
 - 217 Contains Duplicate........................................................
 - 171 Excel Sheet Column Number

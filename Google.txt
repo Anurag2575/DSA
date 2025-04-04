@@ -10,7 +10,7 @@
 - 832 Flipping an Image---------------------------------------------------------
 - 2089 Find Target Indices After Sorting Array..................................
 - 977 Squares of a Sorted Array-------------------------------------------------
-- 1047 Remove All Adjacent Duplicates In String
+- 1047 Remove All Adjacent Duplicates In String---------------------------------
 - 1200 Minimum Absolute Difference
 - 349 Intersection of Two Arrays------------------------------------------------
 - 1122 Relative Sort Array------------------------------------------------------
@@ -32,9 +32,9 @@
 - 53 Maximum Subarray...........................................................
 - 26 Remove Duplicates from Sorted Array........................................
 - 1 Two Sum.....................................................................
-- 844 Backspace String Compare
+- 844 Backspace String Compare--------------------------------------------------
 - 66 Plus One
-- 35 Search Insert Position
+- 35 Search Insert Position-----------------------------------------------------
 - 14 Longest Common Prefix
 - 69 Sqrt(x)
 - 28 Implement strStr()
@@ -104,7 +104,7 @@
 ---
 7. Bit Manipulation
 - 191 Number of 1 Bits
-- 231 Power of Two
+- 231 Power of Two--------------------------------------------------------------
 - 405 Convert a Number to Hexadecimal
 - 136 Single Number.............................................................
 - 190 Reverse Bits

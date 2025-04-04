@@ -1,12 +1,12 @@
 Array & String
-1. Recyclable and Low Fat Products   
+1. Recyclable and Low Fat Products
 2. Defanging an IP Address------------------------------------------------------
-3. Range Sum of BST   
-4. Sum of All Odd Length Subarrays   
-5. Maximum Nesting Depth of the Parentheses   
-6. Check if the Sentence Is Pangram   
-7. Intersection of Three Sorted Arrays   
-8. Reverse Words in a String III   
+3. Range Sum of BST
+4. Sum of All Odd Length Subarrays
+5. Maximum Nesting Depth of the Parentheses
+6. Check if the Sentence Is Pangram
+7. Intersection of Three Sorted Arrays
+8. Reverse Words in a String III
 9. Unique Number of Occurrences-------------------------------------------------
 10. Squares of a Sorted Array
 11. Remove All Adjacent Duplicates In String
@@ -135,7 +135,7 @@ Dynamic Programming
 Sorting & Searching
 1. Binary Search----------------------------------------------------------------
 2. Find Peak Element   
-3. Search a 2D Matrix   
+3. Search a 2D Matrix-----------------------------------------------------------   
 4. Search in Rotated Sorted Array   
 5. Median of Two Sorted Arrays   
 

@@ -3,7 +3,7 @@ using namespace std;
 
 int maxArea(vector<int>& height){
   int n = height.size();
-  int i = 0, j = n-1;
+  int i = 0, j = n-1;//two pointer from left(i) and right(j)
   int area = 0, maxarea = 0;
 
   while(i < j){

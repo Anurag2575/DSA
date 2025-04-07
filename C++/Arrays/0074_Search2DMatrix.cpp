@@ -1,0 +1,15 @@
+#include<vector>
+using namespace std;
+
+bool searchMatrix(vector<vector<int>>& matrix, int target){
+  int rows = matrix.size(), cols = matrix[0].size();
+  int row = 0, col = cols-1;
+//staircase alog
+  while(row < rows && col >= 0){
+    if(matrix[row][col] == target) return true;
+    else if(matrix[row][col] > target) col--;
+    else row++;
+  }
+
+  return false;//target element not found in matrix
+}

@@ -8,7 +8,8 @@
  */
 
 bool hasCycle(ListNode* head){
-  ListNode* slow = head, fast = head;//tortoise and hare algo.
+  ListNode* slow = head;
+  ListNode* fast = head;//tortoise and hare algo.
 
   while(fast && fast->next){
     slow = slow->next;
